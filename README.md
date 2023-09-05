@@ -1,25 +1,4 @@
-# tcp_udp_web_tools
-配合wangler2333博客创建
-博客地址：
-http://blog.csdn.net/u010139869/article/details/79505892
-
-逻辑与界面分离的文件：
-```
-tcp_logic.py
-udp_logic.py
-web_logic.py
-tcp_udp_web_ui.py
-```
-
-单文件版本：tcp_udp_web_tools_all_in_one.py
-
-----
-
-运用逻辑与界面分离的思想，使用pyqt5+socket模块编写图形化TCP/UDP/WEB通信工具。
-实现效果如图：
-![实例1](http://img.blog.csdn.net/20180310105839480?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDEzOTg2OQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-![实例2](http://img.blog.csdn.net/20180310110241424?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDEzOTg2OQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-![实例3](http://img.blog.csdn.net/20180310110314412?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDEzOTg2OQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+无人机光污染检测平台
 
 ----
 ## 强制关闭线程的脚本stopThreading.py:
@@ -964,6 +943,3 @@ cond=>condition: 继承
 
 st->op->e
 ```
-
-## 相关代码下载
-[下载链接](https://github.com/Wangler2333/tcp_udp_web_tools-pyqt5)
